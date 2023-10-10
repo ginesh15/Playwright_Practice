@@ -1,0 +1,26 @@
+{
+    "name": "Ginesh",
+    "email": "goyalginesh15@gmail.com",
+    "password" : "12345",
+    "company": "Nagarro",
+    "website": "abc.com",
+    "city": "Mahendergarh",
+    "address_1": "Mahendergarh",
+    "address_2": "Mahendergarh",
+    "state": "Haryana",
+    "zip_code": "123029",
+    "enter_msg": "Hi this this Ginesh",
+    "first_value": "15",
+    "second_value": "25",
+    "file_data": "Hi, This is Ginesh, Today I am Going To make an Assignment of Playwright.  Happy Learning!!!!",
+    "upload_file_path": "./src/resources/Nagarro_Logo.jpg",
+    "Multipage_check": "Log in to Twitter / X"
+
+    
+
+
+
+
+
+  }
+  
