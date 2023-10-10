@@ -1,6 +1,8 @@
 # Playwright_Practice
 It is a Playwright Project using Typescript
 ================================Action Performed in Playwright Project=============================================
+
+
 Create an automation framework for site: https://www.lambdatest.com/selenium-playground/ having below features –
 
 1.	Framework should be as discussed in the sessions.
